@@ -1,0 +1,16 @@
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/controle/obj/Debug/net5.0/controle.csproj.AssemblyReference.cache
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/controle/obj/Debug/net5.0/controle.GeneratedMSBuildEditorConfig.editorconfig
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/controle/obj/Debug/net5.0/controle.AssemblyInfoInputs.cache
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/controle/obj/Debug/net5.0/controle.AssemblyInfo.cs
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/controle/obj/Debug/net5.0/controle.csproj.CoreCompileInputs.cache
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/controle/bin/Debug/net5.0/controle
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/controle/bin/Debug/net5.0/controle.deps.json
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/controle/bin/Debug/net5.0/controle.runtimeconfig.json
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/controle/bin/Debug/net5.0/controle.runtimeconfig.dev.json
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/controle/bin/Debug/net5.0/controle.dll
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/controle/bin/Debug/net5.0/ref/controle.dll
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/controle/bin/Debug/net5.0/controle.pdb
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/controle/obj/Debug/net5.0/controle.dll
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/controle/obj/Debug/net5.0/ref/controle.dll
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/controle/obj/Debug/net5.0/controle.pdb
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/controle/obj/Debug/net5.0/controle.genruntimeconfig.cache

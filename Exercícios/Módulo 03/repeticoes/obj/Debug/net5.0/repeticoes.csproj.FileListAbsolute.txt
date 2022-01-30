@@ -1,0 +1,16 @@
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/repeticoes/obj/Debug/net5.0/repeticoes.csproj.AssemblyReference.cache
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/repeticoes/obj/Debug/net5.0/repeticoes.GeneratedMSBuildEditorConfig.editorconfig
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/repeticoes/obj/Debug/net5.0/repeticoes.AssemblyInfoInputs.cache
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/repeticoes/obj/Debug/net5.0/repeticoes.AssemblyInfo.cs
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/repeticoes/obj/Debug/net5.0/repeticoes.csproj.CoreCompileInputs.cache
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/repeticoes/bin/Debug/net5.0/repeticoes
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/repeticoes/bin/Debug/net5.0/repeticoes.deps.json
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/repeticoes/bin/Debug/net5.0/repeticoes.runtimeconfig.json
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/repeticoes/bin/Debug/net5.0/repeticoes.runtimeconfig.dev.json
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/repeticoes/bin/Debug/net5.0/repeticoes.dll
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/repeticoes/bin/Debug/net5.0/ref/repeticoes.dll
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/repeticoes/bin/Debug/net5.0/repeticoes.pdb
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/repeticoes/obj/Debug/net5.0/repeticoes.dll
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/repeticoes/obj/Debug/net5.0/ref/repeticoes.dll
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/repeticoes/obj/Debug/net5.0/repeticoes.pdb
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/repeticoes/obj/Debug/net5.0/repeticoes.genruntimeconfig.cache

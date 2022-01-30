@@ -1,0 +1,16 @@
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/operadores/obj/Debug/net5.0/operadores.csproj.AssemblyReference.cache
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/operadores/obj/Debug/net5.0/operadores.GeneratedMSBuildEditorConfig.editorconfig
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/operadores/obj/Debug/net5.0/operadores.AssemblyInfoInputs.cache
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/operadores/obj/Debug/net5.0/operadores.AssemblyInfo.cs
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/operadores/obj/Debug/net5.0/operadores.csproj.CoreCompileInputs.cache
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/operadores/bin/Debug/net5.0/operadores
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/operadores/bin/Debug/net5.0/operadores.deps.json
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/operadores/bin/Debug/net5.0/operadores.runtimeconfig.json
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/operadores/bin/Debug/net5.0/operadores.runtimeconfig.dev.json
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/operadores/bin/Debug/net5.0/operadores.dll
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/operadores/bin/Debug/net5.0/ref/operadores.dll
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/operadores/bin/Debug/net5.0/operadores.pdb
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/operadores/obj/Debug/net5.0/operadores.dll
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/operadores/obj/Debug/net5.0/ref/operadores.dll
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/operadores/obj/Debug/net5.0/operadores.pdb
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/operadores/obj/Debug/net5.0/operadores.genruntimeconfig.cache

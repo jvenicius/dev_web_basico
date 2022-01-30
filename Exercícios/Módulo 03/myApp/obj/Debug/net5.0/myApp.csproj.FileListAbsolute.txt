@@ -1,0 +1,16 @@
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/myApp/bin/Debug/net5.0/myApp
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/myApp/bin/Debug/net5.0/myApp.deps.json
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/myApp/bin/Debug/net5.0/myApp.runtimeconfig.json
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/myApp/bin/Debug/net5.0/myApp.runtimeconfig.dev.json
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/myApp/bin/Debug/net5.0/myApp.dll
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/myApp/bin/Debug/net5.0/ref/myApp.dll
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/myApp/bin/Debug/net5.0/myApp.pdb
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/myApp/obj/Debug/net5.0/myApp.csproj.AssemblyReference.cache
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/myApp/obj/Debug/net5.0/myApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/myApp/obj/Debug/net5.0/myApp.AssemblyInfoInputs.cache
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/myApp/obj/Debug/net5.0/myApp.AssemblyInfo.cs
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/myApp/obj/Debug/net5.0/myApp.csproj.CoreCompileInputs.cache
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/myApp/obj/Debug/net5.0/myApp.dll
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/myApp/obj/Debug/net5.0/ref/myApp.dll
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/myApp/obj/Debug/net5.0/myApp.pdb
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/myApp/obj/Debug/net5.0/myApp.genruntimeconfig.cache

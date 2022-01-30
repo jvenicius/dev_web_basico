@@ -1,0 +1,16 @@
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/SWITCH/bin/Debug/net5.0/SWITCH
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/SWITCH/bin/Debug/net5.0/SWITCH.deps.json
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/SWITCH/bin/Debug/net5.0/SWITCH.runtimeconfig.json
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/SWITCH/bin/Debug/net5.0/SWITCH.runtimeconfig.dev.json
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/SWITCH/bin/Debug/net5.0/SWITCH.dll
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/SWITCH/bin/Debug/net5.0/ref/SWITCH.dll
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/SWITCH/bin/Debug/net5.0/SWITCH.pdb
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/SWITCH/obj/Debug/net5.0/SWITCH.csproj.AssemblyReference.cache
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/SWITCH/obj/Debug/net5.0/SWITCH.GeneratedMSBuildEditorConfig.editorconfig
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/SWITCH/obj/Debug/net5.0/SWITCH.AssemblyInfoInputs.cache
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/SWITCH/obj/Debug/net5.0/SWITCH.AssemblyInfo.cs
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/SWITCH/obj/Debug/net5.0/SWITCH.csproj.CoreCompileInputs.cache
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/SWITCH/obj/Debug/net5.0/SWITCH.dll
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/SWITCH/obj/Debug/net5.0/ref/SWITCH.dll
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/SWITCH/obj/Debug/net5.0/SWITCH.pdb
+/home/jvs/Google Drive/Desenvolvimento/Desenvolvimento de Sistemas Web - Básico (Recode)/Exercícios/Módulo 03/SWITCH/obj/Debug/net5.0/SWITCH.genruntimeconfig.cache
